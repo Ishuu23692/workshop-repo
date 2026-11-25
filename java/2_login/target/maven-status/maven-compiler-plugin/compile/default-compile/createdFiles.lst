@@ -1,0 +1,14 @@
+com\ilp\login\Step04LoginButton.class
+com\ilp\login\Step01Header.class
+com\ilp\login\Step07PasswordOk.class
+com\ilp\login\Ui.class
+com\ilp\login\Step02UsernameBox.class
+com\ilp\login\Step09Register.class
+com\ilp\login\Step06UserExists.class
+com\ilp\login\Step05MyUser.class
+com\ilp\login\App.class
+com\ilp\login\Step03PasswordBox.class
+com\ilp\login\Step08Welcome.class
+com\ilp\login\Checks.class
+com\ilp\login\WebController.class
+com\ilp\login\Step10StrongPassword.class
